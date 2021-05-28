@@ -29,15 +29,9 @@ This document outlines how to impliment a full fedarated network where you can
 
 ### Notes
 While this document outlines the methods one should impliment to be able to do all of these things, which is perfectly fine for power users, the ultamate goal is to make a user friendly GUI client for all of this, that is familiar and usable by people familiar with common services.
-
-\>>> Videos should feel similar to Youtube
-
-\>>> Live streams should feel similar to Youtube
-
-\>>> Text only posts under 280 characters should feel similar to Twitter
-
-\>>> Text only posts over 280 characters should feel like Tumblr
-
-\>>> Chats should have images, videos, and feel like Discord/Telegram/Signal
-
-\>>> Voice and Video chats should feel like Zoom
+- Videos should feel similar to Youtube
+- Live streams should feel similar to Youtube
+- Text only posts under 280 characters should feel similar to Twitter
+- Text only posts over 280 characters should feel like Tumblr
+- Chats should have images, videos, and feel like Discord/Telegram/Signal
+- Voice and Video chats should feel like Zoom
