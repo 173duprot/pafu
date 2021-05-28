@@ -33,7 +33,7 @@ While this document outlines the methods one should impliment to be able to do a
 - **Live streams** should feel similar to **Youtube**
 - **Text** only posts under *280 characters* should feel similar to **Twitter**
 - **Text** only posts over *280 characters* should feel like **Tumblr**
-- **Group Chats** should have images, videos, and feel like **Discord/Telegram**
+    - **Group Chats** should have images, videos, and feel like **Discord/Telegram**
 - **Encrypted Group Chats** should be symmettrically encrypted and append only.
 - **Personal Chats** should be pub-priv key encrypted, secure, and feel like **Signal**
 - **Voice and Video chats** should feel like Zoom
