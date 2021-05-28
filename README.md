@@ -23,4 +23,4 @@ This document outlines how to impliment a full fedarated network where you can
         - Accessed by direct connections (eg. ssh) to the server only.
     - **Secret:** DM's, etc.
         - Accessed by direct connections (eg. ssh) to the server only, personally readible, publically writeable
-        - chmod 702
+            - chmod 702
