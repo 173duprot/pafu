@@ -8,4 +8,4 @@ This document outlines how to impliment a full fedarated network where you can
  - chats (with text, images, videos, and links)
  - and even live steam
  
- using nothing but unix tools and low cost low power servers)
+ using nothing but unix tools (and stuff like lsyncd) and low cost low power servers.
