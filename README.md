@@ -15,10 +15,10 @@ This document outlines how to impliment a full fedarated network where you can
 - Every object (peice of media, chat, etc) is a file
 - Every interaction is a stream
 - Every person is a user on their home server
-- There's a public folder, private folder, and a secret folder
-    - Public: Tweets, blogs, videos, livesteams, etc.
+- Each user has 3 folders 
+    - **Public:** Tweets, blogs, videos, livesteams, etc.
         - Outward facing and can be read by anyone, these will appear in their public streams
-    - Private: Text chats, personal videos, etc.
+    - **Private:** Text chats, personal videos, etc.
         - Accessed by direct connections (eg. ssh) to the server only.
-    - Secret: DM's, etc.
+    - **Secret:** DM's, etc.
         - Accessed by direct connections (eg. ssh) to the server only, write only you cant read.
