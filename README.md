@@ -1,6 +1,8 @@
 ### Abstract
 Fedaration is the future and the current implimentations are heavy, complicated, hard to understand, and genrally a pain in the neck to impliment, write programs for, and host. Mastodon sucks, its massive and eats up soooooo many resources for literally when you boil it down, something that transmits small peices of text.
 
+This was originally an idea I had about building a fedarated text chat built around syncing text files, however it quickly expanded scope once I realized that I could sync directories, which can contain literally anything you want.
+
 This document outlines how to impliment a full fedarated network where you can
  - watch videos
  - blog
@@ -11,7 +13,7 @@ This document outlines how to impliment a full fedarated network where you can
 using nothing but unix tools (and stuff like lsyncd) and low cost low power servers.
 For some small things we can use ssh, larger things we can use lsyncd, rsync, and possibly even DRBD.
  
-This was originally an idea I had about building a fedarated text chat built around syncing text files, however it quickly expanded scope once I realized that I could sync directories, which can contain literally anything you want.
+
 
 ### Core
 - Every **object** (peice of media, chat, etc) is a **file**
