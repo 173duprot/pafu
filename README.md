@@ -11,7 +11,7 @@ This document outlines how to impliment a full fedarated network where you can
  using nothing but unix tools (and stuff like lsyncd) and low cost low power servers.
  For some small things we can use ssh, larger things we can use lsyncd, rsync, and possibly even DRBD.
 
-### Core Prinipals
+### Core
 - Every **object** (peice of media, chat, etc) is a **file**
 - Every interaction is a **append** to a file
 - Every **person** is a **user** on their home server
