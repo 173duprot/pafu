@@ -1,5 +1,5 @@
 ### Abstract
-Fedaration is the future and the current implimentations are heavy, complicated, hard to understand, and genrally a pain in the neck to impliment, write programs for, and host. Mastodon sucks, its massive and eats up soooooo many resources for literally when you boil it down, something that transmits small peices of text.
+Fedaration is the future and the current implimentations are heavy, complicated, hard to understand, and genrally a pain in the neck to impliment, write programs for, and host. Mastodon sucks, its massive and eats up soooooo many resources for literally when you boil it down, something that transmits small peices of text. The rest of the Fediverse is basically all the same, shit, heavy, annoying, and looks bad.
 
 This was originally an idea I had about building a fedarated text chat built around syncing text files, however it quickly expanded scope once I realized that I could sync directories, which can contain literally anything you want.
 
