@@ -1,2 +1,1 @@
-# pafu
-Protocol Agnostic Federated Universe
+# Abstract
