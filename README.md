@@ -14,7 +14,7 @@ This document outlines how to impliment a full fedarated network where you can
 ### Core Prinipals
 - Every object (peice of media, chat, etc) is a file
 - Every interaction is a stream
-- Every person is a user on their home server
+- Every **person** is a **user** on their home server
 - Each user has 3 folders 
     - **Public:** Tweets, blogs, videos, livesteams, etc.
         - Outward facing and can be read by anyone, these will appear in their public streams
