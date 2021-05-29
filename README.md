@@ -27,7 +27,7 @@ For some small things we can use ssh, larger things we can use lsyncd, rsync, an
         - Accessed by direct connections (eg. ssh) to the server only.
     - **Secret:** DM's, etc.
         - Accessed by direct connections (eg. ssh) to the server only
-            - **\[chmod 602\] personally readible, publically writeable**
+            - personally readible, publically writeable**
             - **The name of the secret folder is your public key** (everything written to the secret folder should be encrypted)
 
 
