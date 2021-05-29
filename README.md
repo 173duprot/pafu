@@ -25,7 +25,7 @@ For some small things we can use ssh, larger things we can use lsyncd, rsync, an
         - Outward facing and can be read by anyone, these will appear in their public streams
     - **Private:** Group Text Chats, personal videos, etc.
         - Accessed by direct connections (eg. ssh) to the server only.
-    - **Secret:** DM's, etc.
+    - **Secret:** DM's, User follows, etc.
         - Accessed by direct connections (eg. ssh) to the server only
             - People can send files too it
             - **The name of the secret folder is your public key** (everything written to the secret folder should be encrypted)
