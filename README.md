@@ -12,8 +12,6 @@ This document outlines how to impliment a full fedarated network where you can
  
 using nothing but unix tools (and stuff like lsyncd) and low cost low power servers.
 For some small things we can use ssh, larger things we can use lsyncd, rsync, and possibly even DRBD.
- 
-
 
 ### Core
 - Every **object** (peice of media, chat, etc) is a **file**
@@ -29,7 +27,6 @@ For some small things we can use ssh, larger things we can use lsyncd, rsync, an
         - Accessed by direct connections (eg. ssh) to the server only
             - People can send files too it
             - **The name of the secret folder is your public key** (everything written to the secret folder should be encrypted)
-
 
 ### Notes
 While this document outlines the methods one should impliment to be able to do all of these things, which is perfectly fine for power users, the ultamate goal is to make a user friendly GUI client for all of this, that is familiar and usable by people familiar with common services.
