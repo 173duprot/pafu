@@ -23,11 +23,11 @@ For some small things we can use ssh, larger things we can use lsyncd, rsync, an
 - Each user has 3 folders 
     - **Public:** Tweets, blogs, videos, livesteams, etc.
         - Outward facing and can be read by anyone, these will appear in their public streams
-    - **Private:** Text chats, personal videos, etc.
+    - **Private:** Group Text Chats, personal videos, etc.
         - Accessed by direct connections (eg. ssh) to the server only.
     - **Secret:** DM's, etc.
         - Accessed by direct connections (eg. ssh) to the server only
-            - personally readible, publically writeable**
+            - People can send files too it
             - **The name of the secret folder is your public key** (everything written to the secret folder should be encrypted)
 
 
